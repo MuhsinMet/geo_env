@@ -1,2 +1,2 @@
 # geo_env
-This repository ccontain codes for the course ErSE 316
+This repository contain codes for the course ErSE 316 Geo Environmental Modelling
